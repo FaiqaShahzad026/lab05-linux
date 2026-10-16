@@ -1,0 +1,20 @@
+total 76
+drwxr-x--- 13 faiqashahzad026 faiqashahzad026 4096 Oct 16 04:25 .
+drwxr-xr-x  3 root            root            4096 Sep 25 08:47 ..
+-rw-------  1 faiqashahzad026 faiqashahzad026  496 Oct 10 14:42 .bash_history
+-rw-r--r--  1 faiqashahzad026 faiqashahzad026  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 faiqashahzad026 faiqashahzad026 3771 Feb 13  2026 .bashrc
+drwx------  2 faiqashahzad026 faiqashahzad026 4096 Sep 25 09:11 .cache
+drwxrwxr-x  8 faiqashahzad026 faiqashahzad026 4096 Oct 10 15:17 .git
+-rw-rw-r--  1 faiqashahzad026 faiqashahzad026  179 Oct 16 04:25 .gitconfig
+drwx------  3 faiqashahzad026 faiqashahzad026 4096 Oct 10 15:41 .local
+-rw-r--r--  1 faiqashahzad026 faiqashahzad026  807 Feb 13  2026 .profile
+drwx------  2 faiqashahzad026 faiqashahzad026 4096 Oct 16 04:10 .ssh
+drwxrwxr-x  2 faiqashahzad026 faiqashahzad026 4096 Oct 10 15:07 Assignment01
+drwxrwxr-x  3 faiqashahzad026 faiqashahzad026 4096 Oct 10 12:12 Gitea
+-rw-rw-r--  1 faiqashahzad026 faiqashahzad026   51 Oct 10 13:42 README.md
+drwxrwxr-x  2 faiqashahzad026 faiqashahzad026 4096 Oct 16 04:19 evidence
+drwxrwxr-x  3 faiqashahzad026 faiqashahzad026 4096 Oct 10 15:43 faiqashahzad026.github.io
+drwxrwxr-x  5 faiqashahzad026 faiqashahzad026 4096 Oct 16 04:20 lab05-linux
+drwxrwxr-x  2 faiqashahzad026 faiqashahzad026 4096 Sep 25 09:13 mylab
+drwxrwxr-x  2 faiqashahzad026 faiqashahzad026 4096 Oct 16 04:19 notes
